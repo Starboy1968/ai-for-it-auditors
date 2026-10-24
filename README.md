@@ -69,6 +69,7 @@ A plain-language guide to nine places where AI can speed up IT audit work, and w
 - [AI in Supply Chain Operations: A Strategist's Field Guide](https://github.com/Starboy1968/ai-in-supply-chain-operations): how a supply chain manager can use AI in six everyday jobs, and what to check before trusting it.
 - [Healthcare Cyber Risk Program: An OSINT Case Study](https://github.com/Starboy1968/healthcare-cyber-risk-osint-case-study): a cyber risk program for a fictional regional health system, built only from public sources.
 - [Localized Small Supply Chain: AI Prompts and Workflows](https://github.com/Starboy1968/localized-small-supply-chain): plain-language AI prompts and workflows for small local businesses: suppliers, ordering, forecasting, lead times and disruption planning.
+- [ICM Assistant Workspace](https://github.com/Starboy1968/icm-assistant-workspace): a model-agnostic, five-layer folder workspace that guides any AI chat model through intake, research, drafting and review, with rules for copyright, wellbeing and fairness.
 
 ## Author
 
